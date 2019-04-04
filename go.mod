@@ -1,4 +1,4 @@
-module github.com/ssor/dgraph_live_client
+module github.com/ssor/dgraph_memory_loader
 
 require (
 	github.com/AndreasBriese/bbloom v0.0.0-20190306092124-e2d15f34fcf9 // indirect

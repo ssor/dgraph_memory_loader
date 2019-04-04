@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/mkideal/cli"
-	"github.com/ssor/dgraph_live_client"
+	"github.com/ssor/dgraph_memory_loader"
 	"io/ioutil"
 	"os"
 )
